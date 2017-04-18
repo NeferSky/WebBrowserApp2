@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebBrowserApp2</string>
+    <string name="btnOpenBrowserCaption">Открыть браузер</string>
+</resources>
